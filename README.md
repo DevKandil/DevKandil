@@ -47,7 +47,7 @@ A highly motivated and detail-oriented Software Engineer with a passion for deve
     
 -   I’ve mastered the art of deploying on Fridays _and_ regretting it.
     
--   I treat `var_dump()` like a close friend I call during crises.
+-   I treat `dd()` like a close friend I call during crises.
     
 -   I still fear `composer update` more than production outages.
 
