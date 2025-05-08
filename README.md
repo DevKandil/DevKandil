@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> i'm Abdelrazek Kandil
 
 ## I'm  a Senior Software Engineer
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs3ZWlteW9wNzJmNDY5bnIyM2Foa21uOHk2eHE1ODhzNG1oODAwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width='220'/> 
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs3ZWlteW9wNzJmNDY5bnIyM2Foa21uOHk2eHE1ODhzNG1oODAwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width='200'/> 
 
 A highly motivated and detail-oriented Software Engineer with a passion for developing innovative solutions to complex problems. Possesses good technical skills in software development, and debugging, as well as excellent communication and problem-solving abilities.
 
